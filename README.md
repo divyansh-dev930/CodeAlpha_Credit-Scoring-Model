@@ -1,8 +1,8 @@
-# CodeAlpha_ML_Task2
+# CodeAlpha_ML_Task1
 
 **Welcome to the Repository !!!**
 
-In this repository, you will find the source code for machine learning projects **Task2 Credit Scoring Model** completed during my **CodeAlpha internship.**
+In this repository, you will find the source code for machine learning projects **Task1 Credit Scoring Model** completed during my **CodeAlpha internship.**
 
 **Credit Scoring Model:** This project involves a machine learning model to classify individuals' creditworthiness based on financial data. By leveraging various metrics, the model aids in making informed credit decisions and assessing risk more accurately.
 
